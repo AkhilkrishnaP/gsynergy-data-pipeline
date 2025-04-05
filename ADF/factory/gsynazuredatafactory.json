@@ -1,0 +1,9 @@
+{
+	"name": "gsynazuredatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11189477-9d59-44bb-b86d-5fb8cb651753",
+		"tenantId": "615fc70f-4653-46ed-98a3-817e012ad8b5"
+	}
+}
